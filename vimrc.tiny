@@ -12,3 +12,4 @@ set compatible
 
 " vim: set ft=vim:
 set showmode
+set number
